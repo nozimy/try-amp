@@ -1,0 +1,22 @@
+{
+    subOrders: [{
+        shopID: 'shopID',
+        items: [
+            {
+                id: 'id1',
+                qty: 1,
+                price: 10,
+                title: 'Dress',
+                image: '/img.jpg',
+                discount: '10%'
+            }
+        ],
+        deliveryParams: {},
+        paymentParams: {},
+    }],
+    totalCount: 0,
+    totalSum: 0,
+    clean: true,
+    isFetching: true
+    
+}

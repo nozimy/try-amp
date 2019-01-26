@@ -1,0 +1,30 @@
+@font-face {
+    font-family: 'AcrobatLight';
+    src: url('Akrobat-Light.eot');
+    src: url('Akrobat-Light.eot?#iefix') format('embedded-opentype'),
+         url('Akrobat-Light.woff') format('woff'),
+         url('Akrobat-Light.ttf') format('truetype'),
+         url('Akrobat-Light.svg#AcrobatLigt') format('svg');
+    font-style: normal;
+    font-weight: normal;
+}
+@font-face {
+    font-family: 'Acrobat';
+    src: url('Akrobat-Regular.eot');
+    src: url('Akrobat-Regular.eot?#iefix') format('embedded-opentype'),
+         url('Akrobat-Regular.woff') format('woff'),
+         url('Akrobat-Regular.ttf') format('truetype'),
+         url('Akrobat-Regular.svg#AcrobatLigt') format('svg');
+    font-style: normal;
+    font-weight: normal;
+}
+@font-face {
+    font-family: 'AcrobatExtraBold';
+    src: url('Akrobat-ExtraBold.eot');
+    src: url('Akrobat-ExtraBold.eot?#iefix') format('embedded-opentype'),
+         url('Akrobat-ExtraBold.woff') format('woff'),
+         url('Akrobat-ExtraBold.ttf') format('truetype'),
+         url('Akrobat-ExtraBold.svg#AcrobatLigt') format('svg');
+    font-style: normal;
+    font-weight: normal;
+}
